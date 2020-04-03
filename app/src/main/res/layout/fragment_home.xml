@@ -16,7 +16,7 @@
         android:textAlignment="center"
         android:textSize="20sp"
         android:text="Hello world1111"
-        android:textColor="#808080"
+        android:textColor="#707070"
 
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
