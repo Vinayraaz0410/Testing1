@@ -29,7 +29,7 @@ public class MainActivity extends AppCompatActivity {
         NavigationUI.setupWithNavController(navView, navController);
 
         Log.i("Log****","Testing445555555");
-        Log.i("Log****","GGGGGGGGGGGGGGGGGGGGGGGgi");
+
     }
 
 }
