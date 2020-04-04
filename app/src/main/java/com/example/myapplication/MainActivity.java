@@ -29,8 +29,8 @@ public class MainActivity extends AppCompatActivity {
         NavigationUI.setupWithNavController(navView, navController);
 
         Log.i("Log****","Testing445555555");
-        Log.i("Log****","7777777777777777");
-        Log.i("Log****","7777777777777777");
+        Log.i("Log****","Testing99999999999");
+
 
     }
 

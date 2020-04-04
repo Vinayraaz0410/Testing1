@@ -1,6 +1,4 @@
 *.iml
-
-
 /local.properties
 /.idea/caches
 /.idea/libraries
@@ -14,5 +12,7 @@
 /captures
 .externalNativeBuild
 .cxx
+.gradle
 
 
+/app/src/main/res/layout/fragment_home.xml
